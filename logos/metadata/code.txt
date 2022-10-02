@@ -1,0 +1,18 @@
+<!-- Primary Meta Tags -->
+<title>Skoiy</title>
+<meta name="title" content="Skoiy">
+<meta name="description" content="Gestão, distribuição e rentabilização de conteúdos.">
+
+<!-- Open Graph / Facebook -->
+<meta property="og:type" content="website">
+<meta property="og:url" content="#">
+<meta property="og:title" content="Skoiy">
+<meta property="og:description" content="Gestão, distribuição e rentabilização de conteúdos.">
+<meta property="og:image" content="og-image.png">
+
+<!-- Twitter -->
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="#">
+<meta property="twitter:title" content="Skoiy">
+<meta property="twitter:description" content="Gestão, distribuição e rentabilização de conteúdos.">
+<meta property="twitter:image" content="og-image.png">
