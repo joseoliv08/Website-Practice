@@ -95,7 +95,7 @@ footer {
     transition: all 0.2s;
   }
   
-  .button--loading .button__text {
+.button--loading .button__text {
     visibility: hidden;
     opacity: 0;
   }
